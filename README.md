@@ -4,8 +4,8 @@
   <b>Computer Science and Mathematics · Quantum Computing and Imaging</b><br>
   
   Co-Founder & VP of BinaryHeart @ RHIT · Class of 2028
-  
-  Semi-Professional Cellist and Composer · Content Creator on Instagram and YouTube
+
+  <sup>Semi-Professional Cellist and Composer · Content Creator on Instagram and YouTube</sup>
 </div>
 
 <div align="center">
