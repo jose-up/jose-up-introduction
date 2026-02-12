@@ -2,5 +2,7 @@
 <h3 align="center">Computer Science, Mathematics @ Rose-Hulman | Class of 2028</h3>
 <h5 align="center">Certificate in Quantum Science, Computing, & Engineering | Minors in Imaging, Music</h5>
 
-<h3>Current Projects</h3>
+<h4>Current Projects</h4>
 
+<h4>Ways to Contact Me!</h4>
+Gmail
