@@ -13,7 +13,7 @@
     Check Out My Resume! →
     <a href="https://drive.google.com/file/d/1O16_g1MuCBie3t5yKknJELs4bdXkujq5/view">📄</a>
   </b>
-
+  
   <b>
     LinkedIn →
     <a href=https://www.linkedin.com/in/joseph-zeru/>zerujb@rhit.edu</a>
