@@ -1,11 +1,15 @@
 <h1 align="center">Hey guys! It's Joseph :)</h1>
 
 <div align="center">
-  <b style="font-size:40px;">Co-Founder & VP of BinaryHeart @ RHIT</b><br>
+  
   <span style="font-size:35px;">Computer Science and Mathematics · Class of 2028</span><br>
   <span style="font-size:30px;">Certificate of Quantum Science, Computing & Engineering</span><br>
   <span style="font-size:25px;">Minors in Imaging & Music</span>
 </div>
+
+<h4>Jobs and Involvement</h4>
+<h6 align="center">Co-Founder & VP of BinaryHeart @ RHIT</h6>
+<h6 align="center">Content Creator on Instagram and YouTube</h6>
 
 
 
