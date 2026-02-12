@@ -2,7 +2,7 @@
 
 <div align="center">
   <b>Computer Science and Mathematics · Quantum Computing and Imaging</b><br>
-  <sub>Class of 2028</sub>
+  Co-Founder & VP of BinaryHeart @ RHIT · Content Creator on Instagram and YouTube
 </div>
 
 <h4>Jobs and Involvement</h4>
