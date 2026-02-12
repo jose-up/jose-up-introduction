@@ -27,7 +27,7 @@
 
 <h3>Current Projects</h3>
 
-- **Dirac Delta Calculator** → In Progress
+- **Untitled Quantum Computing Project** → In Progress
 - **Document Privacy Analyzer** → On Hold  
 - **Python Data Tracker with matplotlib** → Updated Weekly *(private due to personal data)*  
 
