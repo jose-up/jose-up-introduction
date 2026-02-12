@@ -34,4 +34,8 @@
 <h3>Ways to Contact Me</h3>
 
 - **Personal Email** → <a href="mailto:joseph.ben.zeru@gmail.com">joseph.ben.zeru@gmail.com</a>  
-- **School Email** → <a href="mailto:zerujb@rhit.edu">zerujb@rhit.edu</a>  
+- **School Email** → <a href="mailto:zerujb@rhit.edu">zerujb@rhit.edu</a>
+
+<h3>Check Out My Content!</h3>
+
+- **School Email** → <a href="https://instagram.com/fbl.abe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="worldofjoseup" height="30" width="40" /></a>
