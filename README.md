@@ -1,13 +1,12 @@
 <h1 align="center">Joseph Zeru</h1>
 
 <div align="center">
-
-**Co-Founder & Vice President of BinaryHeart @ Rose-Hulman**  
-**Computer Science, Mathematics @ Rose-Hulman | Class of 2028**  
-**Certificate in Quantum Science, Computing & Engineering**  
-**Minors in Imaging, Music**
-
+  <h3>Co-Founder & Vice President @ BinaryHeart</h3>
+  <h4>Computer Science & Mathematics · Class of 2028</h4>
+  <h5>Quantum Science, Computing & Engineering</h5>
+  <h6>Minors in Imaging & Music</h6>
 </div>
+
 
 
 <h4>Current Projects</h4>
