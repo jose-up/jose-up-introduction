@@ -2,7 +2,12 @@
 
 <div align="center">
   <b>Computer Science and Mathematics · Quantum Computing and Imaging</b><br>
-  Co-Founder & VP of BinaryHeart @ RHIT · Content Creator on Instagram and YouTube
+  Co-Founder & VP of BinaryHeart @ RHIT · Class of 2028
+  Semi-Professional Cellist and Composer · Content Creator on Instagram and YouTube
+</div>
+
+<div align="center">
+  <b>Check Out My Resume! --> [📄](https://drive.google.com/file/d/1O16_g1MuCBie3t5yKknJELs4bdXkujq5/view)</b>
 </div>
 
 <h4>Current Projects</h4>
