@@ -10,14 +10,14 @@
 <div align="center">
   <p>
     <b>
-      View My Resume → 
+      Check Out My Resume → 
       <a href="https://drive.google.com/file/d/1O16_g1MuCBie3t5yKknJELs4bdXkujq5/view">📄</a>
     </b>
   </p>
 
   <p>
     <b>
-      Connect on LinkedIn → 
+      Connect With Me on LinkedIn! → 
       <a href="https://www.linkedin.com/in/joseph-zeru/">💼</a>
     </b>
   </p>
