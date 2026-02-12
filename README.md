@@ -27,8 +27,8 @@
 
 <h3>Current Projects</h3>
 
+- **Dirac Delta Calculator** → In Progress
 - **Document Privacy Analyzer** → On Hold  
-- **Dirac Delta Calculator** → In Progress  
 - **Python Data Tracker with matplotlib** → Updated Weekly *(private due to personal data)*  
 
 <h3>Ways to Contact Me</h3>
